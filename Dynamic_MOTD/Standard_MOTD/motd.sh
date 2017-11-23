@@ -1,0 +1,1 @@
+tclsh /etc/motd.tcl
